@@ -1,0 +1,17 @@
+.text {
+  color: black;
+}
+.Online {
+  color: green;
+}
+.Offline {
+  color: red;
+}
+.container {
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

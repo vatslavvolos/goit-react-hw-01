@@ -1,0 +1,11 @@
+.ulStyle {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  padding: 0;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
